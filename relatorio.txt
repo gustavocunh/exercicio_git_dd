@@ -2,4 +2,8 @@ lasquei este trabalho
 to lascando mais
 mudei mais um pouco
 criando branch
+<<<<<<< HEAD
 mexendo um pouco
+=======
+criando conflito
+>>>>>>> 2aa7eacf60d6dc82882943e0eaad8eefa96a2b9e
