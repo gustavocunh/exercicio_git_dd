@@ -7,3 +7,4 @@ mexendo um pouco
 =======
 criando conflito
 >>>>>>> 2aa7eacf60d6dc82882943e0eaad8eefa96a2b9e
+a cnn está demitindo muito os âncoras que recebem altos salarios
